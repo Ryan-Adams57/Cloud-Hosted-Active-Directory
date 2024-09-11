@@ -1,4 +1,4 @@
-# Cloud-Hosted-Active-Directory
+# Cloud Hosted Active Directory
 This tutorial provides a guide for setting up on-premises Active Directory using Azure Virtual Machines.
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
